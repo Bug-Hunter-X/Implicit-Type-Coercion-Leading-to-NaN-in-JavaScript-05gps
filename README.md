@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving implicit type coercion and how to avoid it. The `bug.js` file shows the faulty code, where subtracting a string from a number results in `NaN`. The `bugSolution.js` file provides a corrected version with explicit type checking using `isNaN()` and type conversion.
